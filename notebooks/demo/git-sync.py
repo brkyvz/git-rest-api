@@ -1,5 +1,5 @@
-# Databricks notebook source exported at Wed, 3 Jun 2015 16:49:18 UTC
-1+1
+# Databricks notebook source exported at Wed, 3 Jun 2015 18:16:56 UTC
+1 + 1
 
 # COMMAND ----------
 
@@ -7,4 +7,4 @@
 
 # COMMAND ----------
 
-1 * 5 + 3
+1 * 5 + 3 * 2
