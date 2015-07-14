@@ -1,5 +1,5 @@
-// Databricks notebook source exported at Fri, 5 Jun 2015 22:53:05 UTC
-2 + 4
+// Databricks notebook source exported at Tue, 14 Jul 2015 22:53:33 UTC
+2 + 4 + 4
 
 // COMMAND ----------
 
