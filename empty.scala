@@ -1,5 +1,5 @@
 // Databricks notebook source exported at Tue, 14 Jul 2015 22:54:34 UTC
-2 + 4
+(2 + 4) * 5
 
 // COMMAND ----------
 
