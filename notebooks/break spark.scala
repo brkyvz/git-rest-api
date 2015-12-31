@@ -1,4 +1,4 @@
-// Databricks notebook source exported at Tue, 14 Jul 2015 23:29:22 UTC
+// Databricks notebook source exported at Thu, 31 Dec 2015 08:53:21 UTC
 import org.apache.spark.SparkEnv
 
 // COMMAND ----------
@@ -11,7 +11,7 @@ sc.parallelize(1 to 10).collect()
 
 // COMMAND ----------
 
-SparkEnv.get.broadcastManager.stop()
+1 + 2
 
 // COMMAND ----------
 
